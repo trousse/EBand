@@ -1,0 +1,22 @@
+{
+  "name": "eband",
+  "version": "1.0.0",
+  "description": "web server provide band making music on a network",
+  "main": "connection.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trousse/EBand.git"
+  },
+  "keywords": [
+    "sirelonguareme60"
+  ],
+  "author": "Thomas Rousse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trousse/EBand/issues"
+  },
+  "homepage": "https://github.com/trousse/EBand#readme"
+}
