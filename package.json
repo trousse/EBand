@@ -10,13 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/trousse/EBand.git"
   },
-  "keywords": [
-    "sirelonguareme60"
-  ],
   "author": "Thomas Rousse",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/trousse/EBand/issues"
   },
-  "homepage": "https://github.com/trousse/EBand#readme"
+  "homepage": "https://github.com/trousse/EBand#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2"
+  }
 }
